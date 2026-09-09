@@ -13,3 +13,5 @@ else
     Console.WriteLine("Error: No se puede dividir entre cero.");
 }
 Console.WriteLine("El resultado de la division es: " + resultado);
+Console.WriteLine("----------------------------------------");
+
